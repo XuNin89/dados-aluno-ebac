@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome:Erlando Junior
+-Profissão:Tecnico Eletronico
+-Cidade:Ipatinga MG
+-O que faz nas horas vaga: Estudo e jogo.
+-Feedback sobre o curso Qualidade de Software: Gostando do conteudo, mas poderia ter mais exercicios de fixação
+-Feedback sobre a plataforma de estudo da EBAC: Excelente plataforma.
 
 Obrigado!!!
 
